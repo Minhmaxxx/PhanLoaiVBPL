@@ -14,8 +14,7 @@
 - [Kết quả đánh giá](#kết-quả-đánh-giá)
 - [Cài đặt](#cài-đặt)
 - [Hướng dẫn sử dụng](#hướng-dẫn-sử-dụng)
-- [Cấu trúc dự án](#cấu-trúc-dự-án)
-- [Nhóm thực hiện](#nhóm-thực-hiện)
+
 
 ---
 
@@ -165,8 +164,8 @@ Sử dụng **Regex pattern matching** để nhận diện:
 
 ```bash
 # Clone repository
-git clone https://github.com/<your-username>/legal-document-analysis.git
-cd legal-document-analysis
+git clone [https://github.com/<your-username>/legal-document-analysis.git](https://github.com/Minhmaxxx/PhanLoaiVBPL.git)
+cd PhanLoaiVBPL
 
 # Tạo virtual environment (khuyến nghị)
 python -m venv venv
@@ -225,7 +224,3 @@ Truy cập tại `http://localhost:8501`
 
 
 
-
-
-**Giảng viên hướng dẫn:** TS. Phạm Huy Thông  
-**Trường:** Đại học Công Nghiệp Hà Nội — Trường Công nghệ Thông tin và Truyền thông
